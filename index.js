@@ -81,7 +81,6 @@ Watch.prototype.init=function(){
 	this.watchfile(this.dir);
 }
 
-new Watch({dir:'./lib',command:[]});
 
 
 
